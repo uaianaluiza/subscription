@@ -59,6 +59,13 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!-- Spring-scheduler -->
+		<dependency>
+			<groupId>com.lifeonwalden</groupId>
+			<artifactId>spring-scheduler</artifactId>
+			<version>0.2.11</version>
+		</dependency>
+
 		<!-- MapStruct -->
 		<dependency>
 			<groupId>org.mapstruct</groupId>
